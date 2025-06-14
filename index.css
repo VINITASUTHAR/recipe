@@ -1,0 +1,64 @@
+h2{
+     color: rgb(242, 244, 242);
+     font-size: clamp(14px,2vw,18px);
+    }
+body{
+    background-color: rgb(252, 237, 218);
+}    
+main{
+    color: darkgreen;
+}
+#div1 {
+    color: white;}
+header {
+    background-image: url(https://img.freepik.com/free-photo/top-view-vegan-salad-with-fresh-ingredients-plate-black-cutting-board_179666-47303.jpg?semt=ais_hybrid&w=740);opacity: 0.9;
+
+    background-repeat:no-repeat ;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16/9;
+}
+h2{
+    font-size: 50px ;
+    font-weight: bolder;
+    font-family: cursive;
+   }
+#div2{
+    text-align: center;
+    color: aliceblue;
+}
+.box{
+    border-style: ridge;
+    border: none;
+    border-radius: 5px;
+    width:100px ;
+    background-color: rgb(253, 245, 237);
+    text-align: center;
+    padding: 10px;
+}
+#recp{
+    border-style: ridge;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(253, 245, 237);
+}
+#box1{
+    margin-bottom: 10px;
+    margin-top: 30px;
+    margin-right: 10px;
+     margin-left: 10px;
+}
+#box2{
+    margin-left: 10px;
+    margin-top: 30px;
+    margin-right: 10px;
+     margin-bottom: 10px;
+}
+#box3{
+      margin-left: 10px;
+    margin-top: 30px;
+    margin-right: 10px;
+     margin-bottom: 10px;
+    }
